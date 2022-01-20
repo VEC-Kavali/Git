@@ -36,6 +36,41 @@ Sample Example for [Google](https://www.google.com/)
 
 Sample Example for [VITS](http://www.pbrvits.ac.in/)
 
+##### Relative Link
 Section Link [Click Here](./demo.py)
 
 Section Link [Click Here](https://github.com/VEC-Kavali/Git/blob/master/demo.py)
+
+#### Image
+Sample Example for ![image](https://cdn.educba.com/academy/wp-content/uploads/2019/03/Introduction-To-GIT.png)
+
+### Lists:
+#### Ordered List
+  1. Chapter-1
+  2. Chapter-2
+  3. Chapter-3
+#### Ordered with alphabets:
+  a. Index-1
+  b. Index-2
+#### Ordered with romans:
+  i. Fixed-1
+  ii. Fixed-2
+
+#### Unordered List [Nested List]:
+  - Chapter-1
+      * Sub-Chapter-1
+          - Topic
+              * Sub-topic
+      * Sub-Chapter-2
+  - Chapter-2
+
+### Task Lists
+  1. Known Languages
+    
+   - [x] Telugu
+   - [ ] Hindi
+   - [ ] Tamil
+   - [x] English
+
+### Emojis:
+Sample Example of Emojis 👍
